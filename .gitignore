@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*/node_modules
+*/build
+package-lock.json
+
+
+# FastAPI / Uvicorn cache or logs
+*.log
+
+# Python environment folders
+.env
+.venv
+env/
+venv/
+
+# Pycache en cualquier subcarpeta
+**/__pycache__/
